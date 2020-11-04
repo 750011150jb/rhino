@@ -105,7 +105,7 @@ Most issues are managed on GitHub:
 ## More Help
 
 The Google group is the best place to go with questions:
-
+[https://groups.google.com/forum/#!forum/mozilla-rhino]
 [https://groups.google.com/forum/#!forum/mozilla-rhino](https://groups.google.com/forum/#!forum/mozilla-rhino)
 
 
